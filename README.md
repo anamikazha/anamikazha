@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anamika</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India</h3> 
 
+<p align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="500">
+<br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anamikazha&label=Profile%20views&color=0e75b6&style=flat" alt="anamikazha" /> </p>
 
 - 🔭 I’m currently working on **Development Project & Next JS**
